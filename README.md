@@ -1,7 +1,7 @@
+*API명세서
+![스크린샷 2025-05-27 174111](https://github.com/user-attachments/assets/4be4326e-5a75-49b5-b73b-6ef1e01f84fe)
 
-<img width="852" alt="README1" src="https://github.com/user-attachments/assets/e2004bd2-46b7-4a22-99f0-caef686b7600" />
-<img width="804" alt="README2" src="https://github.com/user-attachments/assets/c69e732e-3726-4dab-b92b-866ee3f4c46a" />
-
+*ERD
 ![Copy of schedule](https://github.com/user-attachments/assets/f0183c25-f826-468d-82d5-fc9c7aafbd12)
 
 1.일정관리 App(Develop)
