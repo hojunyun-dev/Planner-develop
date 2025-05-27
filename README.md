@@ -1,4 +1,5 @@
 *API명세서
+
 ![스크린샷 2025-05-27 174111](https://github.com/user-attachments/assets/4be4326e-5a75-49b5-b73b-6ef1e01f84fe)
 
 *ERD
